@@ -1,5 +1,5 @@
 # Practice 6. Parallel Ports (GPIOs)
-
+Luis Fernando Maldonado Sepúlveda
 
 ## Objectives
 he   student   will   become   familiar   with   the   basic instructions for configure and operate the Microcontroller input/output ports.
@@ -91,4 +91,4 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practice, I continued to learn about MPLAB and its functionalities, by performing a program with C that simulated the game Whac-a-mole. The first problem I had was the application of the function pow(), but then I understood how it worked and proceeded normally. Another problem was defining the Knight Rider, or Larson Display, but I figured out it was simple by adding an inverse, instead  of turning on each LED individually. The main problem was to simulate the code, and I didn't know how, so I decided to investigate how to do it, and discovered that I could do it with Proteus, so I learned the basics, designed the Minimum Card System with the LEDs and Push Buttons, everything connected to the specific PIC18 ports and, fortunately, it worked. Now, I have some understanding of Proteus that could be useful in the next sessions.
