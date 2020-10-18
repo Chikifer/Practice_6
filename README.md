@@ -87,7 +87,7 @@ For this practice, add to the Result Section the following:
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
 ### Demonstration
-Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
+Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. The link to my video is here: https://youtu.be/g7U6Ot_iZXE
 
 ## Conclusion
 
